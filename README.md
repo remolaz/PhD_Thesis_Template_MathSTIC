@@ -8,6 +8,7 @@
 	 alt="Click on the Image to get to the Overleaf Template with IEEE bibliography" 
 	 style="float: center; margin-center: 10px;" />
   </a>
+	
 Click on the Image to get to the Overleaf Template with IEEE bibliography
 </p>
 
