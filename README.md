@@ -11,7 +11,7 @@
 Ce dépôt contient un modèle latex utilisable pour le manuscrit de thèse de l'[école doctorale MathSTIC](https://ed-mathstic.u-bretagneloire.fr/) de l'[Université Bretagne Loire](https://u-bretagneloire.fr/).
 
 Ce modèle a pour but principal de fournir une première et une quatrième de couverture du manuscrit de thèse intégralement écrites en latex.
-Ces couvertures ont été (manuellement) calquées sur le modèle original au format M$ Word fourni par MathSTIC en 2018.
+Ces couvertures ont été (manuellement) calquées sur le modèle original au format MS Word fourni par MathSTIC en 2018.
 Tandis que la couverture du manuscrit se doit de respecter le format établi par MathSTIC, la disposition du contenu interne du manuscrit est elle plus flexible.
 La disposition proposée dans ce modèle est donc donnée à titre d'exemple mais il n'est cependant pas obligatoire de la respecter.
 
@@ -88,7 +88,7 @@ Actuellement la police par défaut de latex est celle utilisée pour le contenu.
 This repository contains a template for the thesis manuscript of the [MathSTIC doctoral school](https://ed-mathstic.u-bretagneloire.fr/en) of the [Université Bretagne Loire](https://en.u-bretagneloire.fr/).
 
 The main goal of this template is to provide both front and back covers of the thesis manuscript entirely written in latex.
-These covers have been (manually) reproduced from the original M$ Word model provided by MathSTIC in 2018.
+These covers have been (manually) reproduced from the original MS Word model provided by MathSTIC in 2018.
 While the manuscript covers must follow the rules of MathSTIC, the internal layout of the content is more flexible.
 The content layout provided in this template is therefore given as an exemple rather than as a  mandatory framework.
 
