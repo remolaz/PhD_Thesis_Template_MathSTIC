@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-To be part of the project and be a collaborator, please click <a href="mailto:remo.lazazzera@etudiant.univ-rennes1.fr?subject=Hi Remo! I want to be a collaborator for the thesis template!">here</a>.
+To be part of the project and be a contributor, please click <a href="mailto:remo.lazazzera@etudiant.univ-rennes1.fr?subject=Hi Remo! I want to be a contributor for the thesis template!">here</a>.
 </p>
 
 # ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec IEEE Biblio
