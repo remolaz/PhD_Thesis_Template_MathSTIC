@@ -152,7 +152,7 @@ Currently the latex default font is the one used for the content.
 
 [Template] PhD Thesis MathSTIC
 
-https://gitlab.inria.fr/proman/mathstic-thesis-template/tree/Scientific-Version
+https://github.com/remolaz/PhD_Thesis_Template_MathSTIC
 
 This repository contains a template for the thesis manuscript of the MathSTIC doctoral school.
 
