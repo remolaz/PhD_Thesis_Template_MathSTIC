@@ -1,5 +1,7 @@
 # ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec IEEE Biblio
 
+https://update.lib.berkeley.edu/wp-content/uploads/2017/08/Screen-Shot-2017-08-09-at-2.37.59-PM-1-300x157.png
+
 *Explications en français*
 
 Ce dépôt contient un modèle latex utilisable pour le manuscrit de thèse de l'[école doctorale MathSTIC](https://ed-mathstic.u-bretagneloire.fr/) de l'[Université Bretagne Loire](https://u-bretagneloire.fr/).
