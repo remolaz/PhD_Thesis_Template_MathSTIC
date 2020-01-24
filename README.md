@@ -1,10 +1,10 @@
-# ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec IEEE Biblio
-
 <p align="center">
   <a href="https://www.overleaf.com/latex/templates/phd-thesis-template-for-mathstic-doctoral-school-of-the-universite-bretagne-loire/rwgqmttyhnjd">
     <img src="https://update.lib.berkeley.edu/wp-content/uploads/2017/08/Screen-Shot-2017-08-09-at-2.37.59-PM-1-300x157.png" /> </a>
 	<br><a href="https://www.overleaf.com/latex/templates/phd-thesis-template-for-mathstic-doctoral-school-of-the-universite-bretagne-loire/rwgqmttyhnjd"> Overleaf Template with IEEE bibliography</a>
 </p>
+
+# ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec IEEE Biblio
 
 *Explications en français*
 
