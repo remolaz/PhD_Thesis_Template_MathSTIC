@@ -1,0 +1,65 @@
+%This file is the main file where the final document is generated
+
+\documentclass{these-ubl} 
+\usepackage{bibunits}
+\geometry{vmargin=4.0cm}
+
+\input{./Couverture-these/pagedegarde} % page de garde UR1
+
+% Select the content language following this line
+\selectlanguage{english}
+
+%input acknowledgement chapter 
+\clearemptydoublepage
+\input{./Acknowledgement}
+
+%Inut resume en Francais
+\clearemptydoublepage
+\input{./Resume-Francais/Resume-Francais}
+
+%This command will generate the front cover
+\clearemptydoublepage
+\frontmatter 
+\renewcommand{\contentsname}{Table of Contents}
+\tableofcontents %sommaire %table of content
+
+\clearemptydoublepage
+\input{./Acronymes}
+
+\listoffigures
+\addcontentsline{toc}{chapter}{List of figures}
+
+\listoftables
+\addcontentsline{toc}{chapter}{List of tables} 
+
+\clearemptydoublepage
+\input{./Introduction/Introduction}
+%\shorttableofcontents{Sommaire}{0}
+
+\clearemptydoublepage
+\mainmatter % Ne pas oublier, avec \frontmatter et \backmatter
+	           %this command inputs \frontmatter and \backmatter as a cover in the front and the back
+
+%Input your chapter 1
+\input{./Chapitre1/Chapitre1}
+
+%Input your chapter 2
+\clearemptydoublepage
+\input{./Chapitre2/Chapitre2}
+
+\clearemptydoublepage
+\backmatter
+\input{./Conclusion/Conclusion}
+
+% \clearemptydoublepage
+\input{./PublicationList/PublicationList}
+
+\clearemptydoublepage
+\input{./Appendix}
+
+\clearemptydoublepage
+% Pour avoir la quatrième de couverture sur une page paire
+% To have the back cover on an even page
+\cleartoevenpage[\thispagestyle{empty}]
+\input{./ResumeFinal}
+\end{document}
