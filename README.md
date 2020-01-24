@@ -1,16 +1,17 @@
 # ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec IEEE Biblio
 
-<center>
-	<p>
+
+<p align="center">
   <a href="https://www.overleaf.com/latex/templates/phd-thesis-template-for-mathstic-doctoral-school-of-the-universite-bretagne-loire/rwgqmttyhnjd"
      title="Overleaf Template Link">
     <img src="https://update.lib.berkeley.edu/wp-content/uploads/2017/08/Screen-Shot-2017-08-09-at-2.37.59-PM-1-300x157.png"
 	 alt="Click on the Image to get to the Overleaf Template with IEEE bibliography" 
 	 style="float: center; margin-center: 10px;" />
   </a>
-</p>
 Click on the Image to get to the Overleaf Template with IEEE bibliography
-</center>
+</p>
+
+
 
 *Explications en français*
 
