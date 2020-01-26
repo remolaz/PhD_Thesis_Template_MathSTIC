@@ -4,7 +4,7 @@
 	<br><a href="https://www.overleaf.com/latex/templates/phd-thesis-template-for-mathstic-doctoral-school-of-the-universite-bretagne-loire/rwgqmttyhnjd"> Overleaf Template with IEEE bibliography</a>
 </p>
 
-# ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec IEEE Biblio
+# ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec Biblio IEEE
 
 *Explications en français*
 
