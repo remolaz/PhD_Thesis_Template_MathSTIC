@@ -31,6 +31,9 @@
 \RequirePackage{hyperref} %Utiliser pour une bibliographie interactive + sommaire et TOC interactifs (pour une sortie PDF, par exemple).
 \renewcommand{\bibnumfmt}[1]{[#1]} % per correggere il baco
 
+\renewcommand{\chapterautorefname}{Chapter}
+% per \autoref invece di "chapter" ho "Chapter"
+
 \RequirePackage[english,french]{babel} % Last language is the default, use \selectlanguage{english} to switch
 \RequirePackage{ifpdf}
 \RequirePackage[usenames,dvipsnames]{color} % pour les couleurs

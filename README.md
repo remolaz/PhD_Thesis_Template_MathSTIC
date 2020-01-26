@@ -4,10 +4,6 @@
 	<br><a href="https://www.overleaf.com/latex/templates/phd-thesis-template-for-mathstic-doctoral-school-of-the-universite-bretagne-loire/rwgqmttyhnjd"> Overleaf Template with IEEE bibliography</a>
 </p>
 
-<p align="center">
-To be part of the project and be a contributor, please click <a href="mailto:remo.lazazzera@etudiant.univ-rennes1.fr?subject=Hi Remo! I want to be a contributor for the thesis template!">here</a>.
-</p>
-
 # ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec IEEE Biblio
 
 *Explications en français*
