@@ -2,7 +2,7 @@
   <a href="https://www.overleaf.com/latex/templates/phd-thesis-template-for-mathstic-doctoral-school-of-the-universite-bretagne-loire/rwgqmttyhnjd">
     <img src="https://update.lib.berkeley.edu/wp-content/uploads/2017/08/Screen-Shot-2017-08-09-at-2.37.59-PM-1-300x157.png" /> </a>
 	<br><a href="https://www.overleaf.com/latex/templates/phd-thesis-template-for-mathstic-doctoral-school-of-the-universite-bretagne-loire/rwgqmttyhnjd"> Overleaf Template with IEEE bibliography</a>
-	<br>If you want to contribute to the project please click <a href="mailto:remo.lazazzera@univ-rennes1.fr?subject=Hi! Id like to collaborate in the MathSTIC thesis project">here</A>.
+	<br>If you want to contribute to the project, please send me an email <a href="mailto:remo.lazazzera@univ-rennes1.fr?subject=Hi! Id like to collaborate in the MathSTIC thesis project">here</A>.
 </p>
 
 # ![(French flag)](https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/50px-Flag_of_France.svg.png) Modèle de thèse MathSTIC avec Biblio IEEE
