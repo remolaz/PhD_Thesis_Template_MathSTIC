@@ -254,8 +254,11 @@
 %%%%%%% Nom complet de l'ubl
 \newcommand{\ubl}[1]{\gdef\@ubl{#1}}
 \ubl{}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Define some font sizes specific to the front cover
+\newcommand{\HugeFront}{\fontsize{26}{31}\selectfont} % Used in 'these de doctorat' title
+\newcommand{\LargeFront}{\fontsize{16}{19}\selectfont} % Used in thesis title
 
 %mise en page de la page de garde
 \makeatletter
@@ -278,41 +281,41 @@
   };
    \node at (current page.center)
 {\parbox{17.6cm}{
-\vspace{4.2cm}
+\vspace{3.6cm}
 
 \selectfontfrontcover % Set font style for front cover page
 
-{\Huge \textsc{Th\`{e}se de doctorat de}} \\
-
+{\HugeFront \textsc{Th\`{e}se de doctorat de}} \\
 
 %\begin{huge}
 %\ding{167}
 %\end{huge}
 
-\vspace{2.2cm}
+\vspace{2.1cm}
 
 {\setlength{\baselineskip}{0.9\baselineskip} {\large \@unite} \\
 {\textsc{\@ubl}} \\
 \par}
 \vspace{0.01cm}
 {\setlength{\baselineskip}{0.7\baselineskip}
-{\textsc{\@ecoledoc}} \\
+{\small\textsc{\@ecoledoc}} \\
  \textit{\@nomecole} \\
 \@spec
 
-
+\fontsize{12}{10}\selectfont
 \vspace{0.5cm}
-\hspace{0.6cm}Par \vspace{0.3cm}
+\hspace{0.6cm}Par \vspace{0.15cm}
 \par}
 \hspace{0.6cm}{\LARGE\textbf{\@author}} \vspace{0.5cm}
 
-{\Large\textbf{\@title}} \vspace{0.5cm}
+{\LargeFront\textbf{\@title}} \vspace{0.5cm}
 	
 {\large{\@lesoustitre}} \vspace{0.5cm}
 \begin{spacing}{1}
-	 \small \textbf{Th\`{e}se pr\'{e}sent\'{e}e et soutenue \`{a} \@lieu, le \@date} \\
-	 \small \textbf{\@uniterecherche} \\
-	 \small \textbf{\@numthese}
+	 \small
+  \textbf{Th\`{e}se pr\'{e}sent\'{e}e et soutenue \`{a} \@lieu, le \@date} \\
+	 \textbf{\@uniterecherche} \\
+	 \textbf{\@numthese}
 \end{spacing}
 \vspace{1.1cm}
 	\begin{small}
