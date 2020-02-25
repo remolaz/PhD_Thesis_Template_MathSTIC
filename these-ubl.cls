@@ -293,7 +293,7 @@
 
 \vspace{2.1cm}
 
-{\setlength{\baselineskip}{0.9\baselineskip} {\large \@unite} \\
+{\setlength{\baselineskip}{0.9\baselineskip} {\large {\@unite}} \\
 {\textsc{\@ubl}} \\
 \par}
 \vspace{0.01cm}
@@ -338,7 +338,7 @@
 \newcommand{\backcoverheader}{%
 \AddToShipoutPicture*{%
     \put(0,0){%
-    \parbox[b][44.2cm]{\paperwidth}{%
+    \parbox[b][\paperheight]{\paperwidth}{%
         \vfill
         \includegraphics[width=\paperwidth,keepaspectratio]{./Couverture-these/MathSTIC/image-fond-MATHSTIC-dos.png}%
         \vfill
@@ -442,7 +442,7 @@
 \renewcommand{\chaptermark}[1]{\markboth{\chaptername~\thechapter~--\ \textit{#1}}{}}
 \fancyhead[LE,RO]{\small\thepage}
     \fancyhead[RO]{\small\rightmark}   % \rightmark = section courante
-    \fancyhead[LE]{\small Part~\thepart, \leftmark} % \leftmark = chapitre courant
+    \fancyhead[LE]{\small Part\thepart, \leftmark} % \leftmark = chapitre courant
     \fancyfoot[C]{\thepage}               % marque la page au centre
 }     
 
